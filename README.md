@@ -44,10 +44,12 @@ The monitored values can be viewed in real time through the IoT dashboard, enabl
 The complete Arduino source code for this project is available below:
 
 [ESP8266_Temperature_Humidity_Monitoring.ino](ESP8266_Temperature_Humidity_Monitoring.ino)
-
 ## 📸 Project Output
 
+![DHT Sensor Output](DHT%20sensor.jpeg)
+
 ![KiwisIoT Temperature and Humidity Monitoring Output](KIWISIOT%20OUTPUT%20for%20TEMPERATURE%20AND%20HUMIDITY.jpeg)
+
 
 
 ## 📊 Data Monitoring
