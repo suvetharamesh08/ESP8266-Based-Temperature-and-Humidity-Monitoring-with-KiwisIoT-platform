@@ -1,4 +1,4 @@
-# 🌡️ ESP8266-Based Smart Temperature and Humidity Monitoring System with KiwisIoT
+#   ESP8266-Based Smart Temperature and Humidity Monitoring System with KiwisIoT
 
 ## 📌 Project Overview
 
@@ -44,6 +44,10 @@ The monitored values can be viewed in real time through the IoT dashboard, enabl
 The complete Arduino source code for this project is available below:
 
 [ESP8266_Temperature_Humidity_Monitoring.ino](ESP8266_Temperature_Humidity_Monitoring.ino)
+
+## 📸 Project Output
+
+![ESP8266 Temperature and Humidity Monitoring](ESP8266_Temperature_Humidity_Monitoring.jpeg)
 
 ## 📊 Data Monitoring
 
