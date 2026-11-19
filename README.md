@@ -47,7 +47,8 @@ The complete Arduino source code for this project is available below:
 
 ## 📸 Project Output
 
-![ESP8266 Temperature and Humidity Monitoring](ESP8266_Temperature_Humidity_Monitoring.jpeg)
+![KiwisIoT Temperature and Humidity Monitoring Output](KIWISIOT%20OUTPUT%20for%20TEMPERATURE%20AND%20HUMIDITY.jpeg)
+
 
 ## 📊 Data Monitoring
 
